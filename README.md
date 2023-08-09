@@ -1,1 +1,1 @@
-#First Project on my The Odin Project journey
+# "A journey of a thousand miles begins with a single step"
